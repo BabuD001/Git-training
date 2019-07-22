@@ -1,3 +1,7 @@
 1
 2
+<<<<<<< HEAD
 Change
+=======
+Changed
+>>>>>>> d73ef394e8de6103acc004175690f7ddcdf24903
